@@ -1,7 +1,7 @@
 baseURL = 'https://blog.khalidrafi.me/'
 logoText = "khalid@blog~ $"
 logoHomeLink = "/"
-custom_css = ["css/custom.css"]
+
 # Terminal theme config paste
 
 # Add it only if you keep the theme in the `themes` directory.
